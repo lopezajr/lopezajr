@@ -1,4 +1,4 @@
-<h1 align="center">Hi My Name is Aldo Lopez Jr</h1>
+<h1 align="center">Hi My Name is Aldo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopezajr&label=Profile%20views&color=0e75b6&style=flat" alt="lopezajr" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
