@@ -24,10 +24,11 @@ Hey there! I'm Aldo, a passionate developer working with React, JavaScript, and 
 ### 📫 Let's Connect!
 
 <p style="text-align: left; margin-left: 20px;">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/aldolopezjr" target="_blank">
     <img src="https://img.icons8.com/ios/30/ffffff/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 
